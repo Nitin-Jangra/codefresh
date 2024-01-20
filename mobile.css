@@ -49,6 +49,7 @@
    section .ccclogo img{
     width: 50%;
     height: 75%;
+    display: none;
    }
    .img-fluid{
     width: 85px !important;
